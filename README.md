@@ -12,7 +12,7 @@ Na AWS, o Canary é isso: libera só uma pequena parte do tráfego pro novo cód
 Blue/Green Deploy = Dois Times, Dois Campos, Jogo Sem Tilt
 Agora pensa numa partida ranqueada onde você não pode errar nada. Você prepara dois times completos: um (Blue) tá jogando a partida normal, enquanto o outro (Green) tá no campo de treino, testando estratégias novas, builds e sinergias. Quando o time novo estiver pronto e afiado, troca os times rapidinho, sem que os fãs (usuários) percebam, e sem deixar o jogo cair.
 
-Na AWS, o Blue/Green é isso: duas versões do app, uma ativa e outra pronta pra assumir. Se a nova versão tiver problema, é só voltar rapidão pra antiga — sem sofrimento.
+Na AWS, o Blue/Green é isso: duas versões do app, uma ativa e outra pronta pra assumir. Se a nova versão tiver problema, é só voltar rapidão pra antiga - sem sofrimento.
 
 Canary e Blue/Green são como jogar solo pra testar ou preparar o time inteiro antes da team fight. Cada um tem seu momento, e saber qual usar é meta pra garantir a vitória no deploy!
 
